@@ -1,0 +1,14 @@
+.TH SIMPLE_SHELL "1" "november 2020" "Holberton School" "Simple Shell Manual Page"
+.SH NAME
+.B simple_shell\fR \- simple UNIX command interpreter
+.SH SYNOPSIS
+.B simple_shell\fR [\fIfilename\fR]
+.SH DESCRIPTION
+.B simple_shell\fR is a UNIX command language interpreter that can read and execute commands using 3 modes of input
+.SH OVERVIEW
+.B input modes are : 1- interactive  2- from file 3- from pipe
+.SH BUILTIN COMMANDS
+.SH EXIT STATUS
+.SH ENVIRONMENT
+.SH AUTHORS
+Mounir Chebbi <2157@holbertonschool.com>
