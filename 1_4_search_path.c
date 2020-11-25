@@ -3,7 +3,7 @@
  *extract_paths - extracts the path string from environ
  *@paths: paths
  *@n: line of paths in environ
- *Return paths
+ *Return: paths
  */
 char **extract_paths(char **paths, int n)
 {
