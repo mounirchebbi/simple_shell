@@ -1,8 +1,8 @@
 SIMPLE SHELL PROJECT:
 
-Learning Objectives:
+*Learning Objectives:
 
-General
+*General
 
     Who designed and implemented the original Unix operating system
     Who wrote the first version of the UNIX shell
